@@ -1,0 +1,6 @@
+export const EDIT_QUESTION = "EDIT_QUESTION";
+export const ADD_QUESTION = "ADD_QUESTION";
+export const DELETE_QUESTION = "DELETE_QUESTION";
+export const GET_ALL_QUESTION = "GET_ALL_QUESTION";
+export const GET_10_QUESTION = "GET_10_QUESTION";
+
